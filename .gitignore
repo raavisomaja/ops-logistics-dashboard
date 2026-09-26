@@ -1,0 +1,7 @@
+# Large raw data files - see README for download instructions
+DataCoSupplyChainDataset.csv
+orders_clean.csv
+
+# Mac system files
+.DS_Store
+archive/
